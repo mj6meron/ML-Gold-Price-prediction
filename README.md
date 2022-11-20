@@ -11,5 +11,5 @@
  There is additional classification models implemented on solving another problem. Kindeny disorder diagnostics.
  It is supplimented with a script and a dataset.
  
- 
+ /by Meron Habtemichael
  
